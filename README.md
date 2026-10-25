@@ -1,5 +1,8 @@
 <p align="center">
-  <img src="eye-of-creation.gif" alt="Eye of Creation — ASCII animation" width="100%">
+  <picture>
+    <source srcset="eye-of-creation.avif" type="image/avif">
+    <img src="eye-of-creation.gif" alt="Eye of Creation — ASCII animation" width="100%">
+  </picture>
 </p>
 
 <h1 align="center">Hi, I'm Onur Demir 👋</h1>
